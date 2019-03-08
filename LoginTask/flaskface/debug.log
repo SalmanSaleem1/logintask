@@ -1,0 +1,19 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 476-012-777
+INFO:werkzeug: * Detected change in '/home/salman/FlaskExtentions/LoginTask/flaskface/post/Routes.py', reloading
+DEBUG:root:<function new_post at 0x7f7e61668950>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 476-012-777
+DEBUG:root:<function new_post at 0x7f9286f49950>
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:<function new_post at 0x7f41a2fba950>
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 476-012-777
+INFO:werkzeug: * Detected change in '/home/salman/FlaskExtentions/LoginTask/flaskface/post/Routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 476-012-777
+INFO:werkzeug: * Detected change in '/home/salman/FlaskExtentions/LoginTask/flaskface/post/Routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat

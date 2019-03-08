@@ -1,0 +1,26 @@
+{% extends 'Layout.html'%}
+
+{% block content %}
+
+<center>
+    <div class="content-section" style="width: 600px">
+    <form action="" method="post">
+        <fieldset>
+            {{ form.hidden_tag() }}
+            <legend>Login</legend>
+            <div class="form-group" style="width: 500px">
+                {{ form.email(class="form-control input-sm", placeholder= "Email")}}
+            </div>
+            <div class="form-group" style="width: 500px">
+                {{ form.password(class="form-control input-sm", placeholder= "Password")}}
+            </div>
+        </fieldset>
+        <div class="form-group">
+            {{ form.submit(class ="btn btn-outline-info")}}
+        </div>
+    </form>
+</div>
+</center>
+
+
+{% endblock content %}
